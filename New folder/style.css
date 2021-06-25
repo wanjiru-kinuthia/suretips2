@@ -1,0 +1,129 @@
+body{
+    margin-left:160px;
+    margin-right:300px;
+    width:70%;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+@media screen and (max-width: 800px) {
+    body {
+      width:100%;
+     margin-left:0%;
+    }
+    }
+.header{
+    position:relative;
+    background-color: #EDE63F;
+    height:160px;
+    display:flex;
+    color:black;
+
+}
+.days{
+    position:relative;
+    display:flex;
+    font-size:1.1vw;
+    top:90px;
+    width:10%;
+}
+.mon{
+    margin-left:0%;
+    float:left;
+}
+.tue{
+    margin-left:25%;
+    float:left;
+}
+.wed{
+    margin-left:35%;
+    float:left;
+}
+.thur{
+    margin-left:45%;
+    float:left;
+}
+.fri{
+    margin-left:55%;
+    float:left;
+}
+.sat{
+    margin-left:65%;
+    float:left;
+}
+.sun{
+    margin-left:70%;
+    float:left;
+}
+
+img{
+position:relative;
+width: 71px;
+height: 77px;
+left:10%;
+top: 14px;
+}
+
+.div{
+    position:relative;
+    background-color:black;
+    color:white;
+}
+.top{ 
+    position:relative;
+    display:flex;
+    background-color:#2D2D2D;
+    color:white;
+}
+.top2{ 
+    position:relative;
+    background-color:#2D2D2D;
+    color:white;
+    float:left;
+}
+.p{
+    float:left;
+    margin-left:10%;
+    width:15%;
+    font-size:1.1vw;
+}
+.pp1{
+    float:left;
+    margin-left:14%;
+    font-size:1.1vw;
+}
+.pp2{
+    float:left;
+    margin-left:15%;
+    font-size:1.1vw;
+}
+.p1{
+    float:left;
+    text-align: center;
+    width:10px;
+    margin-left:20%;
+    line-height:16px;
+   font-weight:strong;
+    font-size:1.3vw;
+}
+.p2{
+    float:left;
+    margin-left:45%;
+    text-align: center;
+    line-height:16px;
+   font-weight:strong;
+    font-size:1.3vw;
+}
+.p3{
+    float:left;
+    margin-left:40%;
+    line-height:30px;
+   font-weight:strong;
+    font-size:1.4vw;
+}
+.top1{ 
+    position:relative;
+    display:flex;
+    color:white;
+}
+
+   
